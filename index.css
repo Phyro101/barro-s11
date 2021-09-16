@@ -2,3 +2,7 @@ body {
 	background: #fff;
 	font-family: "Baloo Tamma 2", cursive;
 }
+
+img{
+	border-radius: 50%;
+}
